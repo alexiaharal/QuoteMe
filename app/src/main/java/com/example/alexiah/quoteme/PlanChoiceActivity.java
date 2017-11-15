@@ -49,7 +49,6 @@ public class PlanChoiceActivity extends AppCompatActivity {
 
                 //Prepare to send email
                 Log.i("SendMailActivity", "Send Button Clicked.");
-
                 String fromEmail = "rafaellatrust@gmail.com";
                 String fromPassword = "raf99228159";
                 String toEmails = "rafaellatrust@gmail.com ";
