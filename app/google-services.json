@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "136640223754",
+    "firebase_url": "https://quoteme-4b6e6.firebaseio.com",
+    "project_id": "quoteme-4b6e6",
+    "storage_bucket": "quoteme-4b6e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136640223754:android:979c192e5ac04809",
+        "android_client_info": {
+          "package_name": "com.example.alexiah.quoteme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136640223754-dlmkstkr68g2ekvpu44sfbvo3e1orh1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJ6Zs3H-6Fi3NXQzHez33mvKDTfEj6j8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

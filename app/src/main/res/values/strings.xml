@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuoteMe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="getQuoteTitle">Get your quote within 24 hours !</string>
+    <string name="nextBtn">Next</string>
+    <string name="choose_your_plan_str">Choose a plan:</string>
+</resources>
