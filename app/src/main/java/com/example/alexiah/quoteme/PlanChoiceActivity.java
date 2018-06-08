@@ -50,7 +50,7 @@ public class PlanChoiceActivity extends AppCompatActivity {
                 //Prepare to send email
                 Log.i("SendMailActivity", "Send Button Clicked.");
                 String fromEmail = "rafaellatrust@gmail.com";
-                String fromPassword = "raf99228159";
+                String fromPassword = "";
                 String toEmails = "rafaellatrust@gmail.com ";
                 System.out.println("toEmails: "+ toEmails);
                 List toEmailList = Arrays.asList(toEmails
